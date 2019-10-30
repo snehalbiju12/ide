@@ -45,7 +45,7 @@ This responsive online code editor and compiler have the following features.
 |**Save and Auto Save**|Code and editor settings gets auto-saved after every 10 seconds to prevent lose of code on closing the window accidently. User can also save the code manually by clicking the save button.|
 |**Themes**|There are 9 editor themes available to choose from.|
 |**Fonts**|7 different fonts for the editor.|
-|**Font Size**|User can also set font size for the editor.|
+|**Font Size**|User can also set the font size for the editor.|
 
 ## Functions
 |Button|Function|
